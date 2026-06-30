@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Luyện Giải Phẫu</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <main class="app">
+    <section id="pickerScreen" class="screen">
+      <div class="hero">
+        <p class="eyebrow">Quiz Mode</p>
+        <h1>Luyện Tập Giải Phẫu</h1>
+        <p class="sub">Chọn một bộ 50 câu để bắt đầu.</p>
+      </div>
+      <div id="setButtons" class="set-grid"></div>
+    </section>
+
+    <section id="quizScreen" class="screen hidden">
+      <header class="topbar">
+        <button id="backBtn" class="ghost">Quay lại</button>
+        <div id="progressText" class="meta"></div>
+        <div id="scoreText" class="meta"></div>
+      </header>
+
+      <article class="card">
+        <p id="caseText" class="case"></p>
+        <h2 id="questionText" class="question"></h2>
+        <div id="choices" class="choices"></div>
+
+        <section id="feedback" class="feedback hidden">
+          <p id="answerResult" class="answer-result"></p>
+          <p id="hintText" class="hint"></p>
+        </section>
+
+        <div class="actions">
+          <button id="nextBtn" class="primary" disabled>Câu tiếp</button>
+        </div>
+      </article>
+    </section>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "case": "Case 1: TỔN THƯƠNG ĐÁM RỐI THẦN KINH CÁNH TAY",
+        "question": "Một cậu bé 12 tuổi được chẩn đoán tổn thương phần cao đám rối cánh tay sau khi ngã từ trên cây. Bệnh nhi đi khập khiễng với cánh tay phải thõng xuống bên thân vì mất khả năng giạng .Những cơ nào chịu trách nhiệm chính trong động tác giạng cánh tay tại khớp vai:",
+        "choices": [
+            "Cơ delta và cơ nhị đầu cánh tay",
+            "Cơ delta và cơ trên gai",
+            "Cơ delta và cơ dưới gai",
+            "Cơ trên gai và cơ dưới gai",
+            "Cơ quạ cánh tay và cơ delta Các cơ delta và trên gai được chi phối lần lượt bởi thần kinh nách và thần kinh trên vai, là những cơ đóng vai trò chủ đạo trong động tác giạng cánh tay tại khớp vai. [<br>] Câu 2. Tổn thương bó trong đám rối cánh tay đồng nghĩa với tổn thương thần kinh cơ bì. Đặc điểm của những bệnh nhân này là gì ?"
+        ],
+        "correct": 2,
+        "hint": "Yếu động tác giạng cánh tay tại khớp vai B. Yếu động tác khép cánh tay tại khớp vai C. Yếu động tác duỗi cẳng tay tại khớp khuỷu D. Yếu động tác gấp cẳng tay tại khớp khuỷu E. Yếu động tác ngửa cẳng tay và bàn tay Tổn thương thần kinh cơ bì sẽ dẫn đến mất hoặc yếu động tác gấp khuỷu do liệt cơ nhị đầu cánh tay và cơ cánh tay. [<br>] Câu 3. Một nam thanh niên 22 tuổi được đưa vào phòng cấp cứu với một vết thương do dao dâm vào vùng nách. Bác sĩ nghi ngờ tổn thương phần thấp đám rối cánh tay. Dây thần kinh sau đây có nhiều khả tổn thương ? A. Nách B. Cơ bì C. Phế vị D. Quay E. Trụ Các phần C8 và T1 của phần thấp đám rối cánh tay là nguồn gốc chính của thần kinh trụ. [<br>]"
+    },
+    {
+        "id": 5,
+        "case": "Case 2: TỔN THƯƠNG THẦN KINH QUAY",
+        "question": "Một công nhân nam 24 tuổi được ghi nhận có gãy phần giữa thân xương cánh tay sau khi ngã từ giàn giáo. Bạn sẽ khám động tác nào dưới đây để xem liệu có tổn thương thần kinh quay hay không ?",
+        "choices": [
+            "Gấp cẳng tay tại khớp khuỷu",
+            "Gấp bàn tay tại khớp cổ tay",
+            "Duỗi bàn tay tại khớp cổ tay",
+            "Giạng ngón trỏ, ngón giữa, ngón nhẫn và ngón út",
+            "Khép ngón trỏ, ngón giữa, ngón nhẫn, ngón út Thần kinh quay chi phối cho toàn bộ các cơ khoang cẳng tay sau, trong đó có các cơ duỗi cổ tay. [<br>] Câu 6. Một phụ nữ 45 tuổi vào viện được chẩn đoán cơn hen nặng và được chỉ định làm khí máu động mạch. Nếu bạn dự định lấy máu ở động mạch cánh tay, bạn nên đưa kim vào vị trí nào ?"
+        ],
+        "correct": 3,
+        "hint": "Mặt ngoài cánh tay, giữa cơ nhị đầu và cơ tam đầu cánh tay B. Ngay ngoài gân cơ nhị đầu trong hố trụ C. Ngay trong gân cơ nhị đầu trong hố trụ D. Ngay trong gân cơ gấp cổ tay quay tại cổ tay E. Ngay ngoài cơ gấp cổ tay trụ tại cổ tay Trong hố trụ, động mạch cánh tay nằm nông và nằm ngay trong gân cơ nhị đầu cánh tay. [<br>] Case 3: GÃY CỔ TAY"
+    },
