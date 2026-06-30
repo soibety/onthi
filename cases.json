@@ -42,6 +42,34 @@
         "hint": "Các phần C8 và T1 của phần thấp đám rối cánh tay là nguồn gốc chính của thần kinh trụ."
     },
     {
+        "id": 4,
+        "case": "Case 2: TỔN THƯƠNG THẦN KINH QUAY",
+        "question": "Một bệnh nhân 18 tuổi đã được trang bị 2 chiếc nạng kiểu nách không thích hợp, hậu quả là chèn ép vào bó sau của đám rối cánh tay. Các nhánh tận nào sau đây nhiều khả năng sẽ bị ảnh hưởng?",
+        "choices": [
+            "Thần kinh nách",
+            "Thần kinh giữa",
+            "Thần kinh quay",
+            "Thần kinh trụ",
+            "Thần kinh cơ bì"
+        ],
+        "correct": 3,
+        "hint": "Thần kinh quay là sự tiếp tục trực tiếp của bó sau và sẽ bị ảnh hưởng khi tổn thương bó sau."
+    },
+    {
+        "id": 5,
+        "case": "Case 2: TỔN THƯƠNG THẦN KINH QUAY",
+        "question": "Một công nhân nam 24 tuổi được ghi nhận có gãy phần giữa thân xương cánh tay sau khi ngã từ giàn giáo. Bạn sẽ khám động tác nào dưới đây để xem liệu có tổn thương thần kinh quay hay không ?",
+        "choices": [
+            "Gấp cẳng tay tại khớp khuỷu",
+            "Gấp bàn tay tại khớp cổ tay",
+            "Duỗi bàn tay tại khớp cổ tay",
+            "Giạng ngón trỏ, ngón giữa, ngón nhẫn và ngón út",
+            "Khép ngón trỏ, ngón giữa, ngón nhẫn, ngón út"
+        ],
+        "correct": 2,
+        "hint": "Thần kinh quay chi phối cho toàn bộ các cơ khoang cẳng tay sau, trong đó có các cơ duỗi cổ tay."
+    },
+    {
         "id": 6,
         "case": "Case 2: TỔN THƯƠNG THẦN KINH QUAY",
         "question": "Một phụ nữ 45 tuổi vào viện được chẩn đoán cơn hen nặng và được chỉ định làm khí máu động mạch. Nếu bạn dự định lấy máu ở động mạch cánh tay, bạn nên đưa kim vào vị trí nào ?",
@@ -462,6 +490,20 @@
         "hint": "Trung thất trước nằm ngay sau xương ức và chứa tuyến ức ở trẻ em. [<br>]"
     },
     {
+        "id": 36,
+        "case": "Case 12: UNG THƯ VÚ",
+        "question": "Khi thăm khám vú, ngoài mô vú ở ngực thì vùng nào sau đây bắt buộc phải thăm khám để hoàn thành bước khám tuyến vú ?",
+        "choices": [
+            "Vùng thượng đòn",
+            "Vùng hạ đòn",
+            "Vùng nách",
+            "Vùng cạnh ức (vú trong)",
+            "None"
+        ],
+        "correct": 3,
+        "hint": "Đuôi nách Spence nằm ở vùng nách và có chứa mô tuyến vú"
+    },
+    {
         "id": 37,
         "case": "Case 12: UNG THƯ VÚ",
         "question": "Một PN 45 tuổi được ghi nhận có một khối ung thư vú kích thước 1.5cm nằm ở phần tư trên trong của vú Phải. Các hạch bạch huyết nào sau đây thường bị di căn nhất ?",
@@ -474,6 +516,34 @@
         ],
         "correct": 4,
         "hint": "Ung thư ở nửa trong vú thường dẫn lưu về các hạch vú trong."
+    },
+    {
+        "id": 38,
+        "case": "Case 12: UNG THƯ VÚ",
+        "question": "Một sản phụ 24 tuổi mới sinh đường dưới một sơ sinh nam 2 ngày trước. Hiện tại bệnh nhân phàn nàn về sưng, cứng, đau cả 2 vú và sưng vùng mặt ngoài bụng ngang mức rốn 2 bên. Có vẻ như có ít dịch rỉ ra từ các vùng sưng. Chẩn đoán có khả năng nhất ?",
+        "choices": [
+            "U mỡ 2 bên",
+            "Mô vú phụ",
+            "Béo phì",
+            "Ung thư da",
+            "None"
+        ],
+        "correct": 2,
+        "hint": "Những vùng này nhiều khả năng là các mô vú phụ. \"Con đường sữa\" (thời kỳ bào thai) kéo dài từ vùng nách tới vùng bẹn, nên các mô vú phụ có thể có mặt ở bất cứ đâu dọc theo con đường này."
+    },
+    {
+        "id": 39,
+        "case": "Case 12: UNG THƯ VÚ",
+        "question": "Một phụ nữ 52 tuổi trải vừa trải qua một cuộc phẫu thuật và hiện tại không thể giạng tay trái quá 90 độ. Ngoài ra, khi thăm khám, xương vai trái của bệnh nhân hiện rõ một cách bất thường. Phẫu thuật nào nhiều khả năng chịu trách nhiệm cho tình trạng của bệnh nhân này ?",
+        "choices": [
+            "Phẫu thuật cắt khối u vú trái (lumpectomy) và sinh thiết hạch giữ cửa",
+            "Phẫu thuật cắt tuyến vú triệt để bên trái (radical mastectomy)",
+            "Cắt bỏ nội mạc động mạch cảnh bên trái",
+            "Phẫu thuật cắt lách",
+            "None"
+        ],
+        "correct": 2,
+        "hint": "Bệnh nhân nhiều khả năng có tổn thương thần kinh ngực dài bên trái và bệnh cảnh gặp phải là do yếu cơ răng trước bên trái do thần kinh này chi phối. Tổn thương thần kinh ngực dài dẫn đến mất khả năng giạng cánh tay quá 90 độ và xuất hiện dấu hiệu \"xương vai có cánh (winged scapula)\". Phẫu thuật cắt bỏ vú triệt để là phẫu thuật có nhiều khả năng nhất dẫn đến tổn thương thần kinh ngực dài, đặc biệt là ở vùng nách. Sinh thiết hạch giữ cửa là một phẫu thuật ít rộng hơn và không nhiều khả năng làm tổn thương dây thần kinh này."
     },
     {
         "id": 40,
@@ -504,6 +574,20 @@
         "hint": "Bó nhĩ thất nằm trong phần màng của vách gian thất."
     },
     {
+        "id": 42,
+        "case": "Case 13: RUNG NHĨ/HẸP VAN 2 LÁ",
+        "question": "Một người đàn ông 57 tuổi được chẩn đoán nhồi máu cơ tim và có nhịp tim là 40 ck/phút. Bác sĩ chuyên khoa tim mạch đã chẩn đoán bệnh nhân có tắc động mạch vành phải. Cấu trúc nào dưới đây nhiều khả năng đã bị ảnh hưởng ?",
+        "choices": [
+            "Nút nhĩ thất (AV)",
+            "Bó His",
+            "Các sợi Purkinje",
+            "Van 2 lá",
+            "None"
+        ],
+        "correct": 1,
+        "hint": "Nhồi máu cơ tim thành dưới do tắc động mạch vành phải có thể ảnh hưởng đến nút nhĩ thất và gây ra nhịp chậm."
+    },
+    {
         "id": 43,
         "case": "Case 14: THUYÊN TẮC PHỔI",
         "question": "Với tư cách là một phẫu thuật viên tim mạch lồng ngực, theo bạn động mạch phổi phải có liên quan giải phẫu như thế NÀO ?",
@@ -516,6 +600,34 @@
         ],
         "correct": 4,
         "hint": "Động mạch phổi phải đi qua phía sau động mạch chủ lên và SVC."
+    },
+    {
+        "id": 44,
+        "case": "Case 14: THUYÊN TẮC PHỔI",
+        "question": "Là một nhà chẩn đoán hình ảnh đang cầm trên tay phim chụp mạch phổi cản quang, bạn sẽ phải chú ý đến mấy tĩnh mạch phổi đổ vào tâm nhĩ ?",
+        "choices": [
+            "2",
+            "3",
+            "4",
+            "5",
+            "None"
+        ],
+        "correct": 3,
+        "hint": "4 tĩnh mạch phổi mang máu đã được trao đổi oxy về tâm nhĩ trái."
+    },
+    {
+        "id": 45,
+        "case": "Case 14: THUYÊN TẮC PHỔI",
+        "question": "Bệnh Một phụ nữ 44 tuổi đã được chẩn đoán huyết khối tĩnh mạch sâu chi dưới đột nhiên thở hổn hển, ngã gục xuống với huyết áp tụt. Các biện pháp hồi sức đã được thực hiện nhưng không thành công. Chẩn đoán có khả năng nhât ?",
+        "choices": [
+            "Nhồi máu cơ tim",
+            "Thuyên tắc yên ngựa (saddle embolus)",
+            "Thuyên tắc mạch vùng phổi ngoại vi bên phải",
+            "Đột quỵ tắc mạch",
+            "None"
+        ],
+        "correct": 2,
+        "hint": "Bệnh nhân này nhiều khả năng có thuyên tắc vùng yên ngựa (chỗ thân động mạch phổi chia ra 2 nhánh phải và trái) làm tắc nghẽn hoàn toàn máu đến 2 phổi và cũng chính là lượng máu sẽ về nhĩ trái và được thất trái bơm đi, hậu quả là ngừng tuần hoàn hệ thống và trụy mạch."
     },
     {
         "id": 46,
@@ -602,6 +714,20 @@
         "hint": "Nút AV thường được nuôi bởi RCA. [<br>]"
     },
     {
+        "id": 52,
+        "case": "Case 16: BỆNH ĐỘNG MẠCH VÀNH",
+        "question": "Một người đàn ông 56 tuổi nhập viện vì đau ngực lan lên hàm dưới và tay trái. Test gắng sức với tiêm thallium cho thấy giảm tưới máu cho tim phần nằm ngay trên cơ hoành. Động mạch vành nào nhiều khả năng bị tắc nghẽn ?",
+        "choices": [
+            "Động mạch liên thất trước",
+            "Động mạch vành phải",
+            "Động mạch vành trái",
+            "Động mạch mũ",
+            "None"
+        ],
+        "correct": 2,
+        "hint": "Phần dưới của tim được cấp máu bởi động mạch vành phải."
+    },
+    {
         "id": 53,
         "case": "Case 17: ĐỘNG MẠCH THƯỢNG VỊ DƯỚI",
         "question": "Một phẫu thuật viên đi qua thành bụng để vào khoang phúc mạc sẽ phải cẩn thận để tránh làm tổn thương các mạch máu và thần kinh trong thành bụng. Phần chính của các mạch và thần kinh này sẽ được tìm thấy ngay dưới (nằm sâu hơn) cấu trúc nào sau ĐÂY ?",
@@ -644,6 +770,20 @@
         "hint": "3/4 trên của lá trước bao cơ thẳng bụng được tạo nên bởi cân cơ chéo bụng ngoài và lá trước cơ chéo bụng trong."
     },
     {
+        "id": 56,
+        "case": "Case 17: ĐỘNG MẠCH THƯỢNG VỊ DƯỚI",
+        "question": "Trong một phẫu thuật nội soi ổ bụng, bạn quan sát thấy các mạch thượng vị dưới đi lên ở trên mặt sau của cơ thẳng bụng. Sau đó chúng đột ngột biến mất khỏi tầm mắt của bạn, bằng cách đi lên phía trên qua cấu trúc nào sau đây ?",
+        "choices": [
+            "Liềm bẹn",
+            "Đường bán nguyệt (đường trắng bên)",
+            "Dây chằng liềm",
+            "Đường cung",
+            "Mạc ngang"
+        ],
+        "correct": 4,
+        "hint": "Khi các mạch thượng vị dưới đi lên ở trên mặt sau của cơ thẳng bụng, chúng sẽ đi qua đường cung để lên trên, ở phía trước của lá sau bao cơ thẳng bụng. [<br>]"
+    },
+    {
         "id": 57,
         "case": "Case 18: THOÁT VỊ BẸN",
         "question": "Khi thăm khám vùng bẹn cho một bệnh nhân, dây chằng bẹn là mốc quan trọng mà bạn sẽ tìm. . Vậy dây chằng bẹn băt nguồn từ cấu trúc nào dưới ?",
@@ -670,6 +810,20 @@
         ],
         "correct": 3,
         "hint": "Lỗ bẹn nông là chỗ mở trong cân cơ chéo bụng ngoài. [<br>]"
+    },
+    {
+        "id": 59,
+        "case": "Case 18: THOÁT VỊ BẸN",
+        "question": "Bạn đang trong cuộc phẫu thuật điều trị thoát vị bẹn trực tiếp cho một bệnh nhân. Vậy liên quan giải phẫu nào bạn sẽ phải tìm trong suốt quá Phẫu thuật ?",
+        "choices": [
+            "Túi thoát vị sẽ đi qua lỗ bẹn sâu.",
+            "Túi thoát vị sẽ đi qua vòng đùi.",
+            "Túi thoát vị sẽ nằm ngoài các mạch thượng vị dưới.",
+            "Túi thoát vị sẽ nằm trong các mạch thượng vị dưới. E. Túi thoát vị sẽ nằm dưới dây chằng bẹn",
+            "None"
+        ],
+        "correct": 4,
+        "hint": "Thoát vị bẹn trực tiếp đi xuống qua tam giác bẹn, trong đó các mạch thượng vị dưới tạo nên giới hạn ngoài của tam giác này. Vì vậy, các mạch này sẽ nằm bên ngoài túi thoát vị"
     },
     {
         "id": 60,
@@ -714,6 +868,34 @@
         "hint": "Động mạch túi mật thường tách ra từ động mạch gan phải."
     },
     {
+        "id": 63,
+        "case": "Case 19: SỎI MẬT",
+        "question": "Trong ca phẫu thuật ở câu hỏi trên, ngón trỏ của bạn cho vào trong lỗ mạc nối. Cấu trúc nào dưới đây nằm ở dưới ngón tay của bạn ?",
+        "choices": [
+            "Thùy đuôi của gan",
+            "Khúc đầu tá tràng",
+            "Tĩnh mạch chủ dưới",
+            "Tĩnh mạch cửa",
+            "None"
+        ],
+        "correct": 2,
+        "hint": "Khúc đầu tá tràng sẽ nằm dưới ngón tay của bạn tại vị trí lỗ mạc nối."
+    },
+    {
+        "id": 64,
+        "case": "Case 19: SỎI MẬT",
+        "question": "Một phụ nữ 45 tuổi có tiền sử sỏi mật đến viện vì đau bụng dữ dội và nôn trong 24h qua. Thăm khám cho thấy, bụng trướng và âm ruột có âm độ cao (high-pitched*giống tiếng thổi khi nghe tim*). Xquang ổ bụng cho thấy có khí trong cây đường mật và túi mật. Vị trí nào sau đây nhiều khả năng có thể tìm thấy mật ?",
+        "choices": [
+            "Ống mật chủ",
+            "Tá tràng",
+            "Cơ thắt Oddi",
+            "Hỗng tràng",
+            "Hồi tràng"
+        ],
+        "correct": 5,
+        "hint": "Chẩn đoán có khả năng nhất là tắc ruột do sỏi mật, trong đó một viên sỏi kích thước lớn kẹt lại van hồi manh tràng. Khí trong cây đường mật là do lỗ rò giữa ruột và cây đường mật, cho phép không khí từ ruột đi lên vào hệ thống đường mật. Sỏi mật gây ra tắc ruột. Bệnh cảnh này đòi hỏi phải phẫu thuật cấp cứu"
+    },
+    {
         "id": 65,
         "case": "Case 20: CƠN ĐAU MẠC TREO RUỘT NON",
         "question": "Khi Trong một cuộc phẫu thuật, bạn phải kiểm tra đại tràng ngang và ghi nhận một động mạch trong mạc treo đại tràng ngang. Đây là động mạch GÌ ?",
@@ -740,6 +922,20 @@
         ],
         "correct": 4,
         "hint": "Động mạch đại tràng phải cấp máu cho đại tràng lên và nằm ở sau phúc mạc. [<br>]"
+    },
+    {
+        "id": 67,
+        "case": "Case 20: CƠN ĐAU MẠC TREO RUỘT NON",
+        "question": "Một kế toán 44 tuổi xuất hiện loét dạ dày tá tràng chảy máu quanh thời gian thu thuế. Bác sĩ chuyên khoa tiêu hóa quan sát thấy ổ loét ở đoạn đầu tá tràng. Một bác sĩ điện quang can thiệp đã được mời để gây tắc động mạch cấp máu cho ổ loét qua da. Bác sĩ điện quang cần phải đưa ống thông gây tắc mạch vào động mạch nào sau đây ?",
+        "choices": [
+            "Động mạch thân tạng",
+            "SMA (động mạch mạc treo tràng trên)",
+            "IMA (động mạch mạc treo tràng dưới)",
+            "Động mạch thượng vị trên",
+            "None"
+        ],
+        "correct": 1,
+        "hint": "Động mạch tá tụy trên là một nhánh của động mạch vị tá tràng (nhánh của động mạch gan chung tách từ động mạch thân tạng)."
     },
     {
         "id": 68,
@@ -826,6 +1022,20 @@
         "hint": "Động mạch lách, là động mạch xoắn vặn nhiều nhất trong cơ thể, tách ra từ động mạch thân tạng, đi về phía trái dọc theo bờ trên tụy để vào rốn lách. [<br>]"
     },
     {
+        "id": 74,
+        "case": "Case 22: VIÊM TỤY",
+        "question": "Một người đàn ông 34 tuổi sau tai nạn xe máy đuợc đua vào phòng cấp cứu và ghi nhận có một khối máu tụ liên quan đến tụy. Vị trí có thể có khả năng nhất của khối máu tụ này ?",
+        "choices": [
+            "Đuờng giữa, trong ổ bụng",
+            "Bên phải, trong ổ bụng",
+            "Bên trái, trong ổ bụng",
+            "Đuờng giữa, sau phúc mạc",
+            "Ở sau lách, sau phúc mạc"
+        ],
+        "correct": 4,
+        "hint": "Chấn thương bụng chậu kín (lực chấn thương không phải do vật sắc nhọn) nhu tai nạn xe máy thuờng gắn liền với tụ máu sau phúc mạc, chẳng hạn nhu có liên quan đến tụy. Tụy nằm trong khoang sau phúc mạc, và khối máu tụ thuờng ở đuờng giữa. CT có thể đuợc sử dụng để xác định những tổn thương này."
+    },
+    {
         "id": 75,
         "case": "Case 23: XƠ GAN",
         "question": "Trong một cuộc phẫu thuật, bạn tiến hành kiểm tra gan và túi mật của bệnh nhân. Hố túi mật nằm giữa 2 thùy nào của gan ?",
@@ -894,6 +1104,34 @@
         ],
         "correct": 3,
         "hint": "Dòng máu đến động mạch vị phải và động mạch vị mạc nối phải sẽ ngừng nếu thắt động mạch gan chung."
+    },
+    {
+        "id": 80,
+        "case": "Case 24: LOÉT DẠ DÀY TÁ TRÀNG",
+        "question": "Trước khi tạo một vết cắt ở đáy vị bạn cần phải kẹp động mạch nào ?",
+        "choices": [
+            "Động mạch vị phải",
+            "Động mạch vị trái",
+            "Động mạch vị mạc nối phải",
+            "Động mạch vị mạc nối trái",
+            "Các động mạch vị ngắn"
+        ],
+        "correct": 5,
+        "hint": "Đáy vị được cấp máu bởi các động mạch vị ngắn."
+    },
+    {
+        "id": 81,
+        "case": "Case 24: LOÉT DẠ DÀY TÁ TRÀNG",
+        "question": "Một phụ nữ 45 tuổi vào viện vị nôn nhiều trong 4 giờ qua, dịch nôn màu nâu đen có chứa các cục. Thăm khám thấy, ấn đau vùng giữa bụng, ngoài ra không phát hiện bất thường khác. Nội soi tiêu hóa trên xác định một vết loét đang chảy máu ở thành sau hành tá tràng. Nhiều khả năng ổ loét đã làm rách động mạch nào khi tạo một vết cắt ở đáy vị bạn cần phải kẹp động mạch nào ?",
+        "choices": [
+            "Động mạch lách",
+            "Động mạch vị mạc nối phải",
+            "Động mạch vị trái",
+            "Động mạch vị tá tràng",
+            "Động mạch thân tạng"
+        ],
+        "correct": 4,
+        "hint": "Động mạch vị tá tràng tách ra từ động mạch gan chung và cấp máu cho đoạn gần của tá tràng. Mặc dù loét tá tràng điển hình xảy ra ở thành trước (có thể"
     },
     {
         "id": 82,
@@ -980,6 +1218,230 @@
         "hint": "Các tế bào ung thư từ tuyến sinh dục mà di căn theo đường bạch huyết sẽ di căn đến nhóm hạch thắt lưng (hạch động mạch chủ). Hãy nhớ rằng nguồn gốc của các động mạch sinh dục là động mạch chủ bụng."
     },
     {
+        "id": 88,
+        "case": "Case 27: ÁP XE TUYẾN TIỀN ĐÌNH LỚN (TUYẾN BARTHOLIN)",
+        "question": "Một người phụ nữ đái tháo đường 34 tuổi xuất hiện một cái nhọt (boil) ở môi lớn bên phải. Nhóm hạch nào nhiều khả năng sẽ to lên trong đáp ứng với nhiễm trùng?",
+        "choices": [
+            "Hạch chậu trong",
+            "Hạch chậu ngoài",
+            "Hạch bẹn nông",
+            "Hạch bịt",
+            "None"
+        ],
+        "correct": 3,
+        "hint": "Bạch huyết của âm hộ chủ yếu dẫn lưu về các hạch bẹn nông."
+    },
+    {
+        "id": 89,
+        "case": "Case 27: ÁP XE TUYẾN TIỀN ĐÌNH LỚN (TUYẾN BARTHOLIN)",
+        "question": "Cấu trúc nào dưới đây chia đáy chậu thành tam giác niệu dục và tam giác hậu môn?",
+        "choices": [
+            "Cơ nâng hậu môn",
+            "Cơ ngang đáy chậu nông",
+            "Đường nối 2 củ ngồi",
+            "Rìa hậu môn",
+            "None"
+        ],
+        "correct": 3,
+        "hint": "Đường thẳng đi qua 2 củ ngồi chia đáy chậu thành tam giác niệu dục ở trước và tam giác hậu môn ở sau."
+    },
+    {
+        "id": 90,
+        "case": "Case 27: ÁP XE TUYẾN TIỀN ĐÌNH LỚN (TUYẾN BARTHOLIN)",
+        "question": "Một phụ nữ 24 tuổi đang trải qua cuộc đẻ đường âm đạo. Cắt tầng sinh môn tại đường giữa (midline episiotomy) được thực hiện và cắt vào thể đáy chậu. Những cơ nào sau đây nhiều khả năng đã bị cắt trong quá trình này? *bên tây thường cắt đường giữa, còn ta thì cắt 5h và 7h*",
+        "choices": [
+            "Cơ ngang đáy chậu nông",
+            "Cơ nâng hậu môn",
+            "Cơ mu trực tràng",
+            "Cơ mu cụt",
+            "None"
+        ],
+        "correct": 1,
+        "hint": "Các cơ bám vào thể đáy chậu gồm cơ hành xốp, cơ ngang đáy chậu nông và sâu, và cơ thắt ngoài hậu môn."
+    },
+    {
+        "id": 91,
+        "case": "Case 28: UNG THƯ TINH HOÀN",
+        "question": "Cấu trúc nào ở nam giới tương ứng với âm vật ở nữ giới ?",
+        "choices": [
+            "Mào tinh hoàn",
+            "Ống dẫn tinh",
+            "Dương vật",
+            "Bìu",
+            "None"
+        ],
+        "correct": 3,
+        "hint": "Dương vật ở nam giới tương đương với âm vật ở nữ giới [<br>]"
+    },
+    {
+        "id": 92,
+        "case": "Case 28: UNG THƯ TINH HOÀN",
+        "question": "Tại sao da bìu lại hơi sẫm màu và nhăn nheo?",
+        "choices": [
+            "Biểu mô vảy tăng sừng hóa",
+            "Do lớp áo trắng",
+            "Do mạc dartos",
+            "Do đám rối tĩnh mạch hình dây leo",
+            "None"
+        ],
+        "correct": 3,
+        "hint": "Mạc Dartos cấu tạo từ cơ trơn làm cho bìu có màu hơi sẫm và nhăn nheo đặc trưng."
+    },
+    {
+        "id": 93,
+        "case": "Case 28: UNG THƯ TINH HOÀN",
+        "question": "Một bệnh nhân nam 18 tuổi với nghi ngờ ung thư tinh hoàn đang trải qua một cuộc phẫu thuật. Sau khi rạch bìu, phẫu thuật viên dự tính tiếp cận nhu mô tinh hoàn. Để đến được nhu mô tinh hoàn, cần phải rạch qua lớp nào dưới đây?",
+        "choices": [
+            "Mạc Buck",
+            "Áo trắng",
+            "Mạc Dartos",
+            "Mạc Scarpa",
+            "None"
+        ],
+        "correct": 2,
+        "hint": "Mỗi tinh hoàn được bao bọc bởi một bao dày là áo trắng tinh hoàn"
+    },
+    {
+        "id": 94,
+        "case": "Case 28: UNG THƯ TINH HOÀN",
+        "question": "Một cậu bé 7 tuổi đi khám sức khoẻ định kỳ. Bác sĩ nhi khoa đã phát hiện tinh hoàn phải tăng kích thước và ấn không đau. Dấu hiệu soi đèn qua tinh hoàn dương tính rõ chứng tỏ có dịch quanh tinh hoàn phải. Dịch bất thường này nằm trong khoang nào?",
+        "choices": [
+            "Áo trắng",
+            "Mạc tinh ngoài",
+            "Ống phúc tinh mạc",
+            "Cơ bìu và mạc cơ bìu",
+            "None"
+        ],
+        "correct": 3,
+        "hint": "Bệnh nhi này nhiều khả năng có tràn dịch màng tinh hoàn (hydrocele), là tình trạng tích tụ dịch bất thường trong ống phúc tinh mạc. Ống này hình thành ở thời kỳ thai khi tinh hoàn đi từ bụng qua ống bẹn xuống bìu kéo theo một phần của phúc mạc. Dịch của phúc mạc đôi khi tích tụ lại trong khoang này."
+    },
+    {
+        "id": 95,
+        "case": "Case 29: UNG THƯ CỔ TỬ CUNG DI CĂN VỚI TẮC NGHẼN NIỆU QUẢN",
+        "question": "Một phụ nữ 31 tuổi đến gặp bạn để xem xét đặt dụng cụ tử cung (IUD).Bạn đã thăm khám tiểu khung để đảm bảo thiết bị được đặt đúng hướng và nhận thấy rằng thân tử cung đổ về phía trực tràng và đáy tử cung đổ ra phía trước. Tư thế tử cung của bệnh nhân này ?",
+        "choices": [
+            "Ngả ra trước, gấp ra trước",
+            "Ngả ra trước, gấp ra sau",
+            "Ngả ra sau, gấp ra trước",
+            "Ngả ra sau, gấp ra sau",
+            "None"
+        ],
+        "correct": 3,
+        "hint": "\"Ngả\" (version) thể hiện liên quan giữa trục dọc tử cung với âm đạo, trong khi \"Gấp\" (flexion) thể hiện liên quan giữa thân và cổ tử cung. Do đó, tử cung ở bệnh nhân này trong tư thế ngả ra sau và gấp ra trước."
+    },
+    {
+        "id": 96,
+        "case": "Case 29: UNG THƯ CỔ TỬ CUNG DI CĂN VỚI TẮC NGHẼN NIỆU QUẢN",
+        "question": "Một phụ nữ 45 tuổi vào viện vì chảy máu tử cung đáng kể do u xơ tử cung. Bác Bác sĩ điện quang đã thực hiện nút mạch động mạch tử cung. Theo bạn, động mạch tử cung đi qua cấu trúc nào ?",
+        "choices": [
+            "Dây chằng ngang cổ tử cung",
+            "Dây chằng tử cung cùng",
+            "Nếp tử cung bàng quang",
+            "Cùng đồ âm đạo trước",
+            "None"
+        ],
+        "correct": 1,
+        "hint": "Các động mạch tử cung đi qua các dây chằng ngang cổ tử cung."
+    },
+    {
+        "id": 97,
+        "case": "Case 29: UNG THƯ CỔ TỬ CUNG DI CĂN VỚI TẮC NGHẼN NIỆU QUẢN",
+        "question": "Trước một bệnh nhân nghi ngờ thai ngoài tử cung (EP), bạn đã dùng kim 20G (gauge) đưa qua cùng đồ sau âm đạo để đánh giá xem có máu trong khoang phúc mạc hay không. Mục đích bạn đang muốn đưa kim vào vùng nào của phúc mạc hay chậu hông?",
+        "choices": [
+            "Nếp tử cung bàng quang",
+            "Khoang cạnh trực tràng",
+            "Khoang cạnh bàng quang",
+            "Túi cùng trực tràng tử cung (túi cùng Douglas)",
+            "None"
+        ],
+        "correct": 4,
+        "hint": "Vùng thấp nhất của chậu hông là túi cùng trực tràng tử cung hay túi cùng Douglas. Thủ thuật được mô tả được gọi là chọc dò túi cùng (culdocentesis), trong đó kim được đưa qua cùng đồ âm đạo sau để vào túi cùng Douglas."
+    },
+    {
+        "id": 99,
+        "case": "Case 30: THAI NGOÀI TỬ CUNG",
+        "question": "Một người phụ nữ 22 tuổi trong quá trình phẫu thuật được ghi nhận có một khối thai ngoài tử cung 3 cm trong phần bóng của vòi tử cung. Mô tả đúng nhất về phần bóng vòi này?",
+        "choices": [
+            "Phần nằm trong cơ tử cung",
+            "Phần hẹp nhất và di động nhất",
+            "Phần dài nhất và rộng nhất của vòi tử cung",
+            "Phần có các tua vòi hình ngón tay",
+            "None"
+        ],
+        "correct": 3,
+        "hint": "Phần bóng vòi là vị trí thường gặp thai ngoài tử cung nhất, đây cũng là phần rộng nhất của vòi tử cung."
+    },
+    {
+        "id": 100,
+        "case": "Case 30: THAI NGOÀI TỬ CUNG",
+        "question": "Phẫu thuật cắt buồng trứng hai bên được thực hiện ở một bệnh nhân nữ ung thư buồng trứng. Để hoàn thành phẫu thuật này, các động mạch buồng trứng đã được thắt. Mô tả đúng nhất về giải phẫu của các mạch buồng trứng ?",
+        "choices": [
+            "Động mạch buồng trứng phải tách ra từ động mạch thận phải",
+            "Tĩnh mạch buồng trứng phải đổ vào tĩnh mạch chủ dưới",
+            "Động mạch buồng trứng trái tách ra từ động mạch chậu trong trái",
+            "Tĩnh mạch buồng trứng trái đổ vào tĩnh mạch chủ dưới",
+            "None"
+        ],
+        "correct": 2,
+        "hint": "Cả 2 động mạch buồng trứng đều tách ra từ động mạch chủ bụng. Tĩnh mạch buồng trứng phải đổ về tĩnh mạch chủ dưới trong khi tĩnh mạch buồng trứng trái đổ về tĩnh mạch thận trái. [<br>]"
+    },
+    {
+        "id": 101,
+        "case": "Case 30: THAI NGOÀI TỬ CUNG",
+        "question": "Một bệnh nhân được chẩn đoán thai ngoài tử cung vỡ gây chảy máu trong ổ bụng. Khối thai ngoài ở phần eo vòi và có kích thước 3cm. Máu trong ổ bụng chủ yếu là chảy ra từ động mạch nào?",
+        "choices": [
+            "Động mạch tử cung",
+            "Động mạch buồng trứng",
+            "Động mạch buồng trứng và động mạch tử cung",
+            "Không có đáp án nào đúng",
+            "None"
+        ],
+        "correct": 3,
+        "hint": "Động mạch tử cung (nhánh lên) và động mạch buồng trứng nối với nhau trong mạc treo vòi tử cung để tới cấp máu cho vòi tử cung."
+    },
+    {
+        "id": 102,
+        "case": "Case 31: TĂNG SẢN LÀNH TÍNH TIỀN LIỆT TUYẾN(BPH)",
+        "question": "Một người đàn ông 66 tuổi đến gặp bạn vì đái khó. Bạn đang nghi ngờ BPH. Thùy nào của tuyền tiền liệt chịu trách nhiệm cho triệu chứng của bệnh nhân ?",
+        "choices": [
+            "Thùy trước",
+            "Thùy sau",
+            "Thùy bên",
+            "Thùy giữa",
+            "None"
+        ],
+        "correct": 4,
+        "hint": "Thùy giữa là phần mà niệu đạo đi qua và nó có thể gây tắc niệu đạo khi BPH. [<br>]"
+    },
+    {
+        "id": 103,
+        "case": "Case 31: TĂNG SẢN LÀNH TÍNH TIỀN LIỆT TUYẾN(BPH)",
+        "question": "Một bệnh nhân nam đang trải qua thủ thuật soi bàng quang (cystoscopic). Khi ống soi đang đưa qua phần niệu đạo dương vật, cấu trúc nào sau đây vây quanh niệu đạo ?",
+        "choices": [
+            "Tuyến tiền liệt",
+            "Vật xốp",
+            "Ụ tinh",
+            "Cơ thắt niệu đạo ngoài",
+            "None"
+        ],
+        "correct": 2,
+        "hint": "Phần dài nhất của niệu đạo là niệu đạo dương vật, nơi nó đi qua vật xốp dương vật."
+    },
+    {
+        "id": 104,
+        "case": "Case 31: TĂNG SẢN LÀNH TÍNH TIỀN LIỆT TUYẾN(BPH)",
+        "question": "Trong một vụ án, một trinh sát đã cạo một số vết bẩn tại hiện trường để kiểm tra sự có mặt của phosphatase kiềm để đánh giá xem liệu có tinh dịch tại hiện trường hay không. Nguồn gốc của phosphatase kiềm (alkalin phosphatase) trong tinh dịch ?",
+        "choices": [
+            "Tuyến tiền liệt",
+            "Tuyến hành niệu đạo",
+            "Tuyến tinh",
+            "Ụ tinh",
+            "None"
+        ],
+        "correct": 3,
+        "hint": "Tuyến tinh là nguồn gốc của phosphatase kiềm (ALP) trong tinh dịch. ALP giúp trung hòa môi trường acid trong âm đạo tạo điều kiện cho tinh trùng sống để đến gặp được trứng."
+    },
+    {
         "id": 105,
         "case": "Case 32: TỔN THƯƠNG NIỆU QUẢN DO PHẪU THUẬT",
         "question": "Một phụ nữ 39 tuổi vào viện vì đái đỏ và đau vùng hông lưng khá dữ dội. Bệnh nhân có tiền sử sỏi thận. CLVT bụng được chỉ định, cho thấy đoạn bụng của niệu quản nằm trước một cơ. Tên của cơ này ?",
@@ -992,6 +1454,48 @@
         ],
         "correct": 1,
         "hint": "Niệu quản đoạn bụng nằm trước cơ thắt lưng lớn. [<br>]"
+    },
+    {
+        "id": 106,
+        "case": "Case 32: TỔN THƯƠNG NIỆU QUẢN DO PHẪU THUẬT",
+        "question": "Trong một phẫu thuật cắt bỏ một khối u sau phúc mạc, phẫu thuật viên đã phải kiểm tra niệu quản rất cẩn thận để chắc chắn rằng cấp máu cho niệu quản không bị gián đoạn do phẫu thuật. Mô tả đúng nhất về cấp máu động mạch cho niệu quản ?",
+        "choices": [
+            "Động mạch niệu quản tách ra từ động mạch chủ bụng",
+            "Động mạch niệu quản tách ra từ động mạch chậu ngoài",
+            "Động mạch niệu quản tách ra từ động mạch chậu trong",
+            "Không có động mạch riêng (động mạch niệu quản), nhưng được cấp máu bởi nhiều nhánh nhỏ tách ra từ các động mạch gần nó",
+            "None"
+        ],
+        "correct": 4,
+        "hint": "Niệu quản không có bất kỳ động mạch riêng nào cấp máu (không có động mạch niệu quản) nhưng nó được cấp máu bởi nhiều nhánh nhỏ tách ra từ các động mạch gần đó như động mạch chủ và động mạch thận thận, động mạch sinh dục, động mạch chậu trong và chậu chung, động mạch bàng quang và động mạch tử cung"
+    },
+    {
+        "id": 107,
+        "case": "Case 32: TỔN THƯƠNG NIỆU QUẢN DO PHẪU THUẬT",
+        "question": "Một phụ nữ 30 tuổi tình cờ phát hiện chỉ có một thận. Có khả năng người này còn có ?",
+        "choices": [
+            "Không có buồng trứng 2 bên",
+            "Tử cung một sừng (Unicornuate uterus)",
+            "Màng trinh không thủng (Imperforate hymen)",
+            "Thoát vị bẹn",
+            "None"
+        ],
+        "correct": 2,
+        "hint": "Ống cạnh trung thận (ống Muller) (paramesonephric duct) và ống tiết niệu (urinary duct) liên quan gần với nhau về cả mặt giải phẫu lẫn chức năng trong quá trình phát triển phôi. Do đó, một bất thường bẩm sinh trong thận hoặc niệu quản thường kèm theo bất thường của ống cùng bên, sừng tử cung, hoặc cổ tử cung. Tử cung một sừng là một bất thường bẩm sinh, trong đó một ống Muller không hình thành hoặc đi xuống bình thường trong quá trình phát triển phôi, dẫn đến tử cung chỉ có một sừng. Đoạn xa âm đạo, âm hộ và buồng trứng có một nguồn gốc phôi khác so với những cấu trúc trên đây."
+    },
+    {
+        "id": 108,
+        "case": "Case 33: TRƯỢT NHÂN NHẦY THẮT LƯNG",
+        "question": "Một phụ nữ 34 tuổi đang trải qua thủ thuật soi bàng quang với phương pháp vô cảm là gây tê tủy sống. Khi bác sĩ gây mê đưa kim vào khoang dưới nhện để tiêm thuốc tê, kim sẽ xuyên qua các lớp khác nhau. Câu nào dưới đây mô tả chính xác trình tự của các lớp từ da đến khoang dưới nhện ?",
+        "choices": [
+            "Da, dây chằng trên gai, dây chằng gian gai, dây chằng dọc sau, màng cứng, khoang dưới nhện",
+            "Da, dây chằng trên gai, dây chằng gian gai, màng cứng, khoang dưới nhện",
+            "Da, dây chằng trên gai, dây chằng gian gai, khoang nhện, khoang dưới nhện",
+            "Da, dây chằng gian gai, dây chằng dọc trước, màng cứng, khoang dưới nhện",
+            "None"
+        ],
+        "correct": 2,
+        "hint": "Trình tự đúng là da, dây chằng trên gai, dây chằng gian gai, màng cứng và khoang dưới nhện. [<br>]"
     },
     {
         "id": 109,
@@ -1008,6 +1512,62 @@
         "hint": "Đùi ngoài được chi phối bởi rễ L5. [<br>]"
     },
     {
+        "id": 110,
+        "case": "Case 33: TRƯỢT NHÂN NHẦY THẮT LƯNG",
+        "question": "Một bệnh nhân nam đái tháo đường 50 tuổi đến gặp bạn vì đái khó. Khi thăm khám, bệnh nhân có giảm cảm giác vùng đáy chậu. Phản xạ nào sau đây nhiều khả năng đã bị ảnh?",
+        "choices": [
+            "Phản xạ bánh chè",
+            "Phản xạ gân gót",
+            "Phản xạ da bìu",
+            "Phản xạ nhấp nháy hậu môn (anal wink)",
+            "None"
+        ],
+        "correct": 4,
+        "hint": "Các sợi cảm giác bị tổn thương ở bệnh nhân này là S2 đến S4. Các rễ này chi phối vùng đáy chậu và là đường truyền vào của phản xạ nhấp nháy hậu môn [<br>]"
+    },
+    {
+        "id": 114,
+        "case": "Case 36: TỔN THƯƠNG THẦN KINH THANH QUẢN QUẶT NGƯỢC",
+        "question": "Cơ nào dưới đây đóng vai trò quan trọng nhất trong việc cho phép khi đi vào trong khí quản?",
+        "choices": [
+            "Cơ nhẫn phễu sau",
+            "Cơ nhẫn phễu ngoài",
+            "Cơ nhẫn giáp",
+            "Cơ dưới móng",
+            "None"
+        ],
+        "correct": 1,
+        "hint": "Cơ nhẫn phễu sau là cơ duy nhất làm giạng nếp thanh âm và đóng vai trò quan trọng trong hô hấp thông qua làm mở rộng khe thanh môn."
+    },
+    {
+        "id": 115,
+        "case": "Case 36: TỔN THƯƠNG THẦN KINH THANH QUẢN QUẶT NGƯỢC",
+        "question": "Một phụ nữ 33 tuổi đã trải qua phẫu thuật cắt một phần tuyến giáp do cường giáp đã được xác định là không bắt iod phóng xạ. Từ cách đây 1 tháng, bệnh nhân thỉnh thoảng khàn giọng. Khàn giọng ở bệnh nhân này nhiều khả năng do?",
+        "choices": [
+            "Ống nội khí quản gây tổn thương dây thanh âm",
+            "Tổn thương sụn nhẫn",
+            "Tổn thương sụn giáp",
+            "Tổn thương thần kinh thanh quản quặt ngược",
+            "None"
+        ],
+        "correct": 4,
+        "hint": "Tổn thương thần kinh thanh quản quặt ngược là thường gặp trong phẫu thuật tuyến giáp và có thể dẫn đến mất khả năng khép chặt 2 nếp thanh âm, dẫn đến khàn giọng. Ngoài ra, chức năng bảo vệ của khe thanh môn có thể bị mất, do đó thức ăn hoặc các chất lỏng không đi xuống thực quản có thể chảy vào khí quản và gây ra phản ứng sặc."
+    },
+    {
+        "id": 116,
+        "case": "Case 36: TỔN THƯƠNG THẦN KINH THANH QUẢN QUẶT NGƯỢC",
+        "question": "Một cậu bé 15 tuổi đang ăn bữa tối với cá và vô tình \"một chiếc xương cá mắc vào cổ họng\". Bệnh nhi phàn nàn đau khá nhiều ở phía trên dây thanh âm. Dây thần kinh nào sau đây chịu trách nhiệm truyền cảm giác đau ở bệnh nhi này ?",
+        "choices": [
+            "Thần kinh thanh quản trên",
+            "Thần kinh thanh quản quặt ngược",
+            "Thần kinh phụ (XI)",
+            "Thần kinh hạ thiệt (XII)",
+            "None"
+        ],
+        "correct": 1,
+        "hint": "Niêm mạc thanh quản phía trên dây thanh âm được chi phối bởi thần kinh thanh quản trên, trong khi niêm mạc bên dưới dây thanh âm được chi phối bởi thần kinh thanh quản quặt ngược. [<br>]"
+    },
+    {
         "id": 117,
         "case": "Case 36: TỔN THƯƠNG THẦN KINH THANH QUẢN QUẶT NGƯỢC",
         "question": "Một phụ nữ 25 tuổi đã trải qua một cuộc phẫu thuật cắt bỏ một nhân tuyến giáp. 2 tháng sau, bệnh nhân đến gặp bạn vì khô da và chuột rút (muscle spasm). Các triệu chứng của bệnh nhân này nhiều khả năng do ?",
@@ -1020,6 +1580,20 @@
         ],
         "correct": 2,
         "hint": "Bệnh nhân này nhiều khả năng có hạ calci máu do cắt nhầm tuyến cận giáp trong phẫu thuật tuyến giáp trước đây.."
+    },
+    {
+        "id": 118,
+        "case": "Case 37: THIỂU NĂNG ĐỘNG MẠCH CẢNH",
+        "question": "Một người đàn ông 47 tuổi được ghi nhận có yếu cánh tay phải và nói khó (mất ngôn ngữ diễn đạt). Động mạch sau đây nhiều khả năng đã bị ảnh hưởng?",
+        "choices": [
+            "Động mạch đốt sống",
+            "Động mạch não sau",
+            "Động mạch não giữa",
+            "Động mạch não trước",
+            "None"
+        ],
+        "correct": 3,
+        "hint": "Động mạch não giữa cấp máu cho vùng thái dương và vùng đỉnh nơi chứa vùng Broca (trung tâm ngôn ngữ vận động- thất ngôn Broca bệnh nhân vẫn hiểu lời nói nhưng không diễn đạt được, khác với thất ngôn Wernicke ) ."
     },
     {
         "id": 119,
@@ -1036,6 +1610,76 @@
         "hint": "Quai cổ là một nhánh của đám rối cổ chi phối cho các cơ dưới móng. Rễ trên thường đi xuống bên trong bao cảnh ở nông hơn tĩnh mạch cảnh trong. Do đó, dây thần kinh này có nguy cơ bị tổn thương trong quá trình phẫu thuật tiếp cận các động mạch cảnh trong."
     },
     {
+        "id": 120,
+        "case": "Case 37: THIỂU NĂNG ĐỘNG MẠCH CẢNH",
+        "question": "Một người đàn ông 44 tuổi đang sử dụng warfarin natri (Coumadin) vì một van tim nhân tạo. Một hôm bệnh nhân bị ngã từ trên cây xuống và xuất hiện một khối tụ máu lớn ở da đầu nhưng máu từ động mạch thái dương nông vẫn tiếp tục chảy vào trong. Để kiểm soát chảy máu có thể thắt động mạch nào sau đây ?",
+        "choices": [
+            "Động mạch cảnh trong",
+            "Động mạch cảnh ngoài",
+            "Động mạch chẩm",
+            "Động mạch hàm trên",
+            "None"
+        ],
+        "correct": 2,
+        "hint": "Động mạch cảnh ngoài chia thành 2 nhánh tận là động mạch hàm trên và động mạch thái dương nông."
+    },
+    {
+        "id": 121,
+        "case": "Case 37: THIỂU NĂNG ĐỘNG MẠCH CẢNH",
+        "question": "Một bé gái 2 tuổi được chẩn đoán tật vẹo cổ liên quan đến cơ ức đòn chũm (SCM) bên phải. Thay đổi giải phẫu có khả năng nhất ?",
+        "choices": [
+            "Đầu gấp về phía trước, ở đường giữa",
+            "Đầu quay sang phải",
+            "Đầu quay sang trái",
+            "Đầu ngửa ra sau, ở đường giữa",
+            "None"
+        ],
+        "correct": 3,
+        "hint": "Trong tật vẹo cổ, SCM (cơ ức đòn chũm) bị ngắn lại, dẫn đến đầu quay về phía đối diện. [<br>]"
+    },
+    {
+        "id": 122,
+        "case": "Case 37: THIỂU NĂNG ĐỘNG MẠCH CẢNH",
+        "question": "Một cầu thủ bóng đá 24 tuổi trong một tình huống tranh chấp, bị cầu thủ đối phương đấm vào bên trái hộp sọ. Bác sỹ của đội phát hiện thấy yếu SCM (cơ ức đòn chũm)trái. Nhiều khả năng sẽ tìm thấy triệu chứng nào khác ở bệnh nhân này ?",
+        "choices": [
+            "Yếu cơ cắn",
+            "Giảm cảm giác của mặt cùng bên",
+            "Giảm tiết nước mắt của mắt cùng bên",
+            "Yếu cơ thang",
+            "None"
+        ],
+        "correct": 4,
+        "hint": "SCM và cơ thang được chi phối bởi dây thần kinh phụ (thần kinh sọ XI. Thần kinh này có nguy cơ bị tổn thương trong tam giác cổ sau."
+    },
+    {
+        "id": 123,
+        "case": "Case 37: THIỂU NĂNG ĐỘNG MẠCH CẢNH",
+        "question": "Một bệnh nhân được đưa vào viện sau một tai nạn xe hơi. Khi thăm khám, bác sỹ ghi nhận lồi thanh quản. Cấu trúc giải phẫu nào đươi đây tương ứng với lồi ?",
+        "choices": [
+            "Sụn giáp",
+            "Sụn nhẫn",
+            "Xương móng",
+            "Vòng sụn khí quản đầu tiên",
+            "None"
+        ],
+        "correct": 1,
+        "hint": "Lồi thanh quản được tạo nên bởi bờ trên của sụn giáp. [<br>]"
+    },
+    {
+        "id": 124,
+        "case": "Case 39: DI CĂN HẠCH THƯỢNG ĐÒN",
+        "question": "Một người đàn ông 57 tuổi được chẩn đoán ung thư đại tràng. Bệnh nhân có một khối ở cổ rất có khả năng là hạch di căn. Hạch di căn thường gặp vị trí nào nhất ?",
+        "choices": [
+            "Vùng thượng đòn phải",
+            "Vùng hạ đòn phải",
+            "Vùng thượng đòn trái",
+            "Vùng hạ đòn trái",
+            "None"
+        ],
+        "correct": 3,
+        "hint": "Ống ngực dẫn lưu về tĩnh mạch dưới đòn trái. Di căn ung thư thường đi tới các hạch thượng đòn, nơi mà nó sẽ tiếp tục tăng sinh."
+    },
+    {
         "id": 125,
         "case": "Case 39: DI CĂN HẠCH THƯỢNG ĐÒN",
         "question": "Một người phụ nữ 65 tuổi được chẩn đoán ung thư âm hộ có di căn hạch trong tam giác đùi. Mô tả đúng nhất về vị trí của hạch ?",
@@ -1050,6 +1694,20 @@
         "hint": "Liên quan của các cấu trúc vùng bẹn có thể được nhớ là NAVEL: Nerve- thần kinh, Artery- động mạch, Vein-tĩnh mạch, Empty space-khoảng trống, Lymph node-hạch bạch huyết."
     },
     {
+        "id": 127,
+        "case": "Case 40: LIỆT BELL",
+        "question": "Một người đàn ông 44 tuổi phàn nàn đau đầu và tai phải nghe khó. Bệnh nhân cũng có yếu các cơ mặt. Giải thích phù hợp nhất?",
+        "choices": [
+            "Liệt thần kinh VII ngoại biên",
+            "Liệt thần kinh VIII ngoại biên",
+            "Tổn thương góc cầu tiểu não",
+            "Tổn thương hạch thần kinh sinh ba",
+            "None"
+        ],
+        "correct": 3,
+        "hint": "Khi có nhiều dây thần kinh cùng bị ảnh hưởng, thì đây không phải là một rối loạn ở ngoại vi. Dây thần kinh sọ VII và VIII thoát ra từ cầu não ngay cạnh nhau. Một khối u tế bào schwann (schwannoma) liên quan tới góc cầu tiểu não có thể ảnh hưởng đến cả hai dây thần kinh sọ này. [<br>]"
+    },
+    {
         "id": 128,
         "case": "Case 40: LIỆT BELL",
         "question": "Tổn thương thần kinh mặt khi thần kinh này thoát ở lỗ trâm chũm sẽ làm rối loạn chức năng nào?",
@@ -1062,6 +1720,48 @@
         ],
         "correct": 5,
         "hint": "Nhăn trán là kết quả của việc co cơ trán, được chi phối bởi dây thần kinh mặt. Thần kinh mặt chịu trách nhiệm cho vị giác hai phần ba trước lưỡi, nhưng thừng nhĩ xuất hiện trước khi thân chính của dây thoát ra qua lỗ trâm chũm. Cảm giác của giác mạc và má được chi phối bởi dây thần kinh sinh ba."
+    },
+    {
+        "id": 129,
+        "case": "Case 40: LIỆT BELL",
+        "question": "Một người phụ nữ 33 tuổi được chẩn đoán gãy xương sọ dẫn tới liệt thần kinh VII một bên. Nhiều khả năng có gãy xương nào dưới?",
+        "choices": [
+            "Vòm sọ thuộc phần trán",
+            "Gãy xương thái dương bao gồm cả phần trai",
+            "Gãy xương chẩm",
+            "Vỡ nền sọ bao gồm cả vùng chũm",
+            "None"
+        ],
+        "correct": 4,
+        "hint": "Gãy nền sọ bao gồm cả vùng chũm xương thái dương có thể tác động đến dây thần kinh mặt khi nó thoát ra qua lỗ trâm chũm."
+    },
+    {
+        "id": 130,
+        "case": "Case 41: ĐAU DÂY THẦN KINH SINH BA",
+        "question": "Một người đàn ông 56 tuổi được chẩn đoán đột quỵ. Một trong những triệu chứng của bệnh nhân là yếu rõ sức cắn cùng bên tổn thương, chỉ điểm yếu nhóm cơ nhai. Cơ nào dưới đây cũng được chi phối bởi thần kinh mà chi phối cho nhóm cơ nhai ?",
+        "choices": [
+            "Cơ vòng mắt",
+            "Cơ bám da cổ",
+            "Bụng trước cơ hai bụng",
+            "Cơ trâm móng",
+            "Bụng trên cơ vai móng"
+        ],
+        "correct": 3,
+        "hint": "Bụng trước cơ hai bụng được chi phối bởi thần kinh V3, thần kinh này cũng chi phối cho nhóm cơ nhai. Cơ bám da cổ và cơ vòng mắt được chi phối bởi dây thần kinh VII"
+    },
+    {
+        "id": 131,
+        "case": "Case 41: ĐAU DÂY THẦN KINH SINH BA",
+        "question": "Một phụ nữ đái tháo đường 45 tuổi được chẩn đoán Zona mắt (zona lan vào cả giác mạc). Virus varicella nhiều khả năng đã đi qua dây thần kinh để tới giác mạch?",
+        "choices": [
+            "TK sọ II",
+            "TK sọ III",
+            "TK sọ V",
+            "TK sọ VII",
+            "None"
+        ],
+        "correct": 3,
+        "hint": "Thần kinh sinh ba cung cấp các nhánh chi phối cảm giác cho giác mạc. Nhiễm virus varicella (hay virus Herpes) vùng mặt có thể thông qua thần kinh V để tới giác mạc. Tình trạng này gây nguy hiểm cho thị giác."
     },
     {
         "id": 133,
@@ -1092,6 +1792,104 @@
         "hint": "Đưa nhãn cầu vào trong đặt phần chức năng của cơ chéo trên (ở giữa ròng rọc và chỗ bám tận của nó) cùng hàng với trục cơ kéo của nó (muscle pull). Bởi vì chỗ bám tận của nó ở phần sau của củng mạc, nên sau đó nó sẽ đưa nhãn cầu (đồng tử) nhìn xuống dưới."
     },
     {
+        "id": 135,
+        "case": "Case 42: LIỆT THẦN KINH VẬN NHÃN",
+        "question": "Cũng ở bệnh nhân trên, bạn yêu cầu bệnh nhân đưa mắt phải nhìn ra ngoài, và sau đó nhìn lên trên. Bạn vừa kiểm tra chức năng của cơ?",
+        "choices": [
+            "Cơ thẳng trên",
+            "Cơ chéo trên",
+            "Cơ chéo dưới",
+            "Cơ thẳng dưới",
+            "None"
+        ],
+        "correct": 1,
+        "hint": "Đưa nhãn cầu ra ngoài sẽ đặt trục của cơ thẳng trên song song với trục cơ kéo của nó, và sau đó cơ này sẽ đưa nhãn cầu lên trên."
+    },
+    {
+        "id": 136,
+        "case": "Case 43: TỤ MÁU DƯỚI DA ĐẦU",
+        "question": "Câu nào dưới đây mô tả đúng nhất các lớp của da?",
+        "choices": [
+            "Da, cân, mô liên kết đặc, màng xương",
+            "Da, mô liên kết lỏng lẻo, cân, màng xương",
+            "Da, mô liên kết đặc, cân, mô liên kết lỏng lẻo, màng xương",
+            "Da, cân, mô liên kết lỏng, cơ, màng xương",
+            "None"
+        ],
+        "correct": 3,
+        "hint": "Các lớp của da đầu có thể được nhớ là SCALP: Skin- Da, Connective tissue- Mô liên kết, Aponeurosis- Cân, Loose connective tissue- Mô liên kết lỏng lẻo, Periosteum- Màng xương. [<br>]"
+    },
+    {
+        "id": 137,
+        "case": "Case 43: TỤ MÁU DƯỚI DA ĐẦU",
+        "question": "Một người phụ nữ 65 tuổi vào viện vì đau dữ dội nửa đầu bên phải. Một phẫu thuật viên mạch máu đã lấy một mảnh sinh thiết mạch máu ở sâu hơn cơ thái dương. Động mạch nào dưới đây đã được lấy mẫu?",
+        "choices": [
+            "Động mạch màng não giữa",
+            "Động mạch cảnh ngoài",
+            "Động mạch mắt",
+            "Động mạch thái dương sâu",
+            "None"
+        ],
+        "correct": 4,
+        "hint": "Động mạch thái dương sâu nằm ở sâu hơn cơ thái dương và đôi khi có liên quan đến tình trạng viêm (viêm động mạch thái dương). Viêm động mạch thái dương hay viêm động mạch tế bào khổng lồ đặc trưng bởi đau đầu và đau nhiều khớp."
+    },
+    {
+        "id": 138,
+        "case": "Case 43: TỤ MÁU DƯỚI DA ĐẦU",
+        "question": "Một nhà thần kinh học sử dụng một chiếc kim nhỏ để khám cảm giác phía trước da đầu ở gần đường chân tóc cho một nam thanh niên 26 tuổi. Dây thần kinh nào dưới đây chi phối cho vùng da đó ?",
+        "choices": [
+            "Thần kinh V",
+            "Thần kinh VII",
+            "Thần kinh X",
+            "Thần kinh sống cổ 2 (C2)",
+            "None"
+        ],
+        "correct": 1,
+        "hint": "Phần trước của da đầu được chi phối bởi thần kinh V, trong khi phần sau da đầu được chi phối bởi thần kinh sống C2."
+    },
+    {
+        "id": 139,
+        "case": "Case 44: TỤ MÁU NGOÀI MÀNG CỨNG",
+        "question": "Một người đàn ông 35 tuổi xuất hiện xuất huyết nội sọ khi một động mạch màng não bị vỡ. Theo giải phẫu, khối máu tụ nằm ở đâu ?",
+        "choices": [
+            "Ngay ngoài màng cứng",
+            "Ngay dưới màng cứng",
+            "Trong khoang dưới nhện",
+            "Trong nhu mô não",
+            "None"
+        ],
+        "correct": 1,
+        "hint": "Tổn thương các động mạch màng não sẽ dẫn đến tụ máu ngoài màng cứng. [<br>]"
+    },
+    {
+        "id": 140,
+        "case": "Case 44: TỤ MÁU NGOÀI MÀNG CỨNG",
+        "question": "Một sơ sinh 1 tháng tuổi được đưa đến phòng cấp cứu vì lơ mơ và co giật. Sau khi hỏi tỉ mỉ, bác sỹ phát hiện ra rằng sơ sinh này đã bị rung lắc trước khi thay đổi ý thức. Mạch máu nào nhiều khả năng đã bị tổn thương ?",
+        "choices": [
+            "Các động mạch màng não",
+            "Các tĩnh mạch màng não",
+            "Các tĩnh mạch liên lạc",
+            "Động mạch não giữa",
+            "None"
+        ],
+        "correct": 3,
+        "hint": "Trẻ sơ sinh khi bị rung lắc rất dễ gây vỡ các tĩnh mạch liên lạc nằm dưới màng cứng. Do đó thường dẫn đến tụ máu dưới màng cứng."
+    },
+    {
+        "id": 141,
+        "case": "Case 44: TỤ MÁU NGOÀI MÀNG CỨNG",
+        "question": "Một nam thanh niên 21 tuổi được đưa đến phòng cấp cứu sau khi bị một chiếc gậy bóng chày đập vào đầu. Bác sỹ phẫu thuật thần kinh nghi ngờ vỡ xương sọ và khối tụ máu bên dưới nằm ở chỗ bốn xương chính của hộp sọ gặp nhau. Vị trí này là ? ?",
+        "choices": [
+            "Thóp trước (bregma)",
+            "Thóp chẩm thái dương (lamda)",
+            "Thóp trước bên (Pterion)",
+            "Điểm gốc mũi (Nasion)",
+            "None"
+        ],
+        "correct": 3,
+        "hint": "Thóp trước bên là một mốc quan trọng của hộp sọ, nơi mà bốn xương chính của hộp sọ g ặp nhau (trán, đỉnh, thái dương và bướm). Nó cũng là phần mỏng nhất của hộp sọ."
+    },
+    {
         "id": 142,
         "case": "Case 45: SỎI TUYẾN NƯỚC BỌT",
         "question": "Một nam thanh niên 22 tuổi tham gia vào một trận đánh nhau bằng dao sau một trận bóng đá. Bệnh nhân được đưa đến khoa cấp cứu với một vết rách 8cm vùng má phải, đi từ tai phải đến gần góc miệng. Cấu trúc nào dưới đây nhiều khả năng đã bị tổn thương ?",
@@ -1104,6 +1902,160 @@
         ],
         "correct": 1,
         "hint": "Nhánh má của thần kinh mặt và ống tuyến mang tai đi trong vùng má và có thể được xác định bằng một đường kẻ từ bình tai (hoặc lỗ tai ngoài) đến góc miệng."
+    },
+    {
+        "id": 143,
+        "case": "Case 45: SỎI TUYẾN NƯỚC BỌT",
+        "question": "Một phụ nữ 45 tuổi đang trải qua một phẫu thuật cắt bỏ tuyến nước bọt vì nghi ngờ ung thư. Sau phẫu thuật, bệnh nhân không thể cử động lưỡi một cách bình thường. Phẫu thuật trên nhiều khả năng thực hiện trên tuyến nước bọt nào ?",
+        "choices": [
+            "Tuyến mang tai",
+            "Tuyến dưới lưỡi",
+            "Tuyến dưới hàm",
+            "Tuyến hàm trên",
+            "None"
+        ],
+        "correct": 3,
+        "hint": "Thần kinh hạ thiệt đi ở sâu hơn tuyến dưới hàm, và tổn thương dây thần kinh này sẽ gây ra yếu hoặc liệt các cơ của lưỡi."
+    },
+    {
+        "id": 144,
+        "case": "Case 45: SỎI TUYẾN NƯỚC BỌT",
+        "question": "Một thiếu nữ 16 tuổi được mẹ đưa tới gặp bạn vì mẹ bệnh nhân nghi ngờ có rối loạn về ăn uống. Bệnh nhân thể trạng bình thường, sưng hai bên má nhưng không đau và có nhiều răng sâu. Chẩn đoán có khả năng nhất?",
+        "choices": [
+            "Chứng biếng ăn thần kinh (anorexia nervosa)",
+            "Chứng cuồng ăn (bulimia)",
+            "Hội chứng ruột kích thích",
+            "Chứng cuồng ăn giả tạo (Facetious hyperphagia)",
+            "None"
+        ],
+        "correct": 2,
+        "hint": "Tăng kích thước tuyến mang tai và sâu nhiều răng là các triệu chứng thường gặp ở những bệnh nhân mắc chứng cuồng ăn (bulimia). Những bệnh nhân này có thể có cân nặng bình thường hoặc hơi thừa cân, với đặc trưng là hành vi ăn uống vô độ, và hậu quả là nôn mửa và sử dụng thuốc nhuận tràng"
+    },
+    {
+        "id": 145,
+        "case": "Case 46: PHÌNH MẠCH DẠNG TÚI (HÌNH QUẢ DÂU)",
+        "question": "Bạn đang khám cho một bệnh nhân nam 53 tuổi để phát hiện các tiếng thổi động mạch cảnh. Tiếp theo, bạn muốn nghe động mạch cảnh trong. Để làm được điều đó bạn cần biết động mạch cảnh chung thường tách đôi thành động mạch cảnh trong và động mạch cảnh ngoài ở ngang mức nào ?",
+        "choices": [
+            "Ngang mức sụn nhẫn",
+            "Ngang mức sụn giáp",
+            "Ngang mức khuyết ức",
+            "Ngang mức đốt sống cổ 8",
+            "None"
+        ],
+        "correct": 2,
+        "hint": "Động mạch cảnh chung tách đôi ở ngang mức sụn giáp."
+    },
+    {
+        "id": 146,
+        "case": "Case 46: PHÌNH MẠCH DẠNG TÚI (HÌNH QUẢ DÂU)",
+        "question": "Một bệnh nhân nam 64 tuổi được chẩn đoán đột quỵ cấp tính. Triệu chứng chính của bệnh nhân là mất một phần thị trường. Bác sỹ thần kinh đã chẩn đoán tổn thương nằm ở thùy chẩm. Động mạch nào dưới đây có khả năng đã bị ảnh hưởng ?",
+        "choices": [
+            "Động mạch cảnh trong",
+            "Động mạch cảnh ngoài",
+            "Động mạch não giữa",
+            "Động mạch não sau",
+            "None"
+        ],
+        "correct": 4,
+        "hint": "Thùy chẩm được cấp máu bởi các động mạch não sau, là nhánh tận của động mạch nền. [<br>]"
+    },
+    {
+        "id": 147,
+        "case": "Case 46: PHÌNH MẠCH DẠNG TÚI (HÌNH QUẢ DÂU)",
+        "question": "Một người đàn ông 35 tuổi phàn nàn về đau đầu. Bệnh nhân mô tả đây là “cơn đau dữ dội nhất cuộc đời mình”. Bệnh nhân phải ôm lấy phía sau cổ và sau đó gục xuống sàn. Tại bệnh viện, CLVT cho thấy có xuất huyết dưới nhện. Nguyên nhân nào dưới đây có khả năng nhất?",
+        "choices": [
+            "Tắc nghẽn động mạch cảnh",
+            "Tắc nghẽn động mạch đốt sống thân nền",
+            "Vỡ động mạch màng não giữa",
+            "Vỡ phình mạch hình quả dâu",
+            "None"
+        ],
+        "correct": 4,
+        "hint": "Nguyên nhân thường gặp nhất của xuất huyết dưới nhện là vỡ phình mạch hình quả dâu trong đa giác Willis và chảy máu từ dị dạng động tĩnh mạch não (AVM)."
+    },
+    {
+        "id": 148,
+        "case": "Case 47: TRÀN DỊCH TAI GIỮA",
+        "question": "Một cậu bé 4 tuổi đuợc ghi nhận có nhiễm trùng tai tái diễn. Bệnh nhi đã đuợc đặt một ống dẫn luu qua màng nhĩ cách đây 3 ngày. Hiện tại bệnh nhi gặp một chút khó khăn khi cảm nhận vị kẹo. Giải thích phù hợp nhất cho tình trạng của bệnh nhi này ?",
+        "choices": [
+            "Tổn thần kinh sọ VIII",
+            "Tổn thương thừng nhĩ",
+            "Ảnh huởng của thuốc gây mê",
+            "Ảnh huởng của ống nội khí quản",
+            "None"
+        ],
+        "correct": 2,
+        "hint": "Thừng nhĩ, là một nhánh của dây thần kinh sọ VII, đi ở sau màng nhĩ và đôi khi có thể bị tổn thương trong khi phẫu thuật đặt ống dẫn luu ở tai. Thừng nhĩ chi phối cảm giác vị giác cho 2/3 trước luỡi."
+    },
+    {
+        "id": 149,
+        "case": "Case 47: TRÀN DỊCH TAI GIỮA",
+        "question": "Một cô bé 5 tuổi phàn nàn vì đau tai phải do viêm tai giữa cấp. Thần kinh nào duới đây chịu trách nhiệm nhận cảm đau ở màng nhĩ?",
+        "choices": [
+            "Thần kinh sọ VII",
+            "Thần kinh sọ VIII",
+            "Thần kinh sọ IX",
+            "Thần kinh sọ X",
+            "None"
+        ],
+        "correct": 3,
+        "hint": "Thần kinh thiệt hầu (IX) chịu trách nhiệm nhận cảm cho mặt trong màng nhĩ và hòm nhĩ. [<br>]"
+    },
+    {
+        "id": 150,
+        "case": "Case 47: TRÀN DỊCH TAI GIỮA",
+        "question": "Một cậu bé 3 tuổi có 3 đợt viêm tai giữa trong năm vừa qua. Mẹ cậu bé hỏi bác sĩ nhi khoa tại sao mà trẻ em có xu huớng hay mắc nhiễm trùng tai hơn nguời lớn. Giải thích về giải phẫu hợp lý nhất ?",
+        "choices": [
+            "Các thay đổi trong vòi tai",
+            "Thay đổi cấu trúc loa tai",
+            "Thay đổi cấu trúc ống tai ngoài",
+            "Thay đổi ở xuơng bàn đạp",
+            "None"
+        ],
+        "correct": 1,
+        "hint": "Vòi nhĩ nối thông tai giữa với tỵ hầu. Vòi nhĩ ở trẻ em ngắn hơn và nằm ngang hơn so với nguời lớn."
+    },
+    {
+        "id": 151,
+        "case": "Case 48: VIÊM XOANG",
+        "question": "Một sinh viên y 24 tuổi đã được chẩn đoán viêm xoang hỏi bác sĩ của mình tại sao sự dẫn lưu của mũi xảy ra vào ban đêm mà không phải là ban ngày. Đâu là giải thích hợp lý nhất?",
+        "choices": [
+            "Vị trí của các lỗ mở trong xoang",
+            "Vị trí của các lỗ mở trong hốc mũi",
+            "Gián đoạn dẫn lưu do hoạt động nhai",
+            "Sản xuất chất nhầy tăng lên về đêm",
+            "None"
+        ],
+        "correct": 1,
+        "hint": "Xoang dễ bị nhiễm trùng nhất là xoang hàm trên. Lỗ mở của xoang hàm trên nằm ở phía trên, ở vị trí không thuận lợi cho thoát dịch nhờ vào trọng lực. Trong khi ngủ vào ban đêm, dịch được chảy ra ngoài qua lỗ thông."
+    },
+    {
+        "id": 152,
+        "case": "Case 48: VIÊM XOANG",
+        "question": "Một sinh viên 22 tuổi đang được nghi ngờ viêm xoang. Bác sĩ thấy có mủ chảy ra từ ngách mũi trên. Xoang nào dưới đây nhiều khả năng đã bị nhiễm trùng?",
+        "choices": [
+            "Xoang trán",
+            "Xoang hàm trên",
+            "Xoang bướm",
+            "Xoang sàng",
+            "None"
+        ],
+        "correct": 4,
+        "hint": "Các xoang sàng sau dẫn lưu dịch vào ngách mũi trên."
+    },
+    {
+        "id": 153,
+        "case": "Case 48: VIÊM XOANG",
+        "question": "Một sinh viên 28 tuổi tốt nghiệp chuyên ngành giải phẫu thần kinh ghi nhận đau ở gốc mũi và đã được chẩn đoán là nhiễm trùng “xoang”. Anh ta đang suy nghĩ về dây thần kinh chi phối cảm giác cho vùng này. Thần kinh nào chịu trách nhiệm về cảm giác cho vùng này ?",
+        "choices": [
+            "Các nhánh của thần kinh sọ III",
+            "Các nhánh của thần kinh sọ V",
+            "Các nhánh của thần kinh sọ VII",
+            "Các nhánh của thần kinh sọ IX",
+            "None"
+        ],
+        "correct": 2,
+        "hint": "Các xoang cạnh mũi được chi phối bởi các nhánh của dây V.. [<br>]"
     },
     {
         "id": 154,
@@ -1120,6 +2072,20 @@
         "hint": "Nhánh hạnh nhân của động mạch mặt nằm trong giường của hạnh nhân khẩu cái và rất dễ bị tổn thương. Mặc dù động mạch khẩu cái lên cũng tách ra các nhánh tới hạnh nhân, nhưng nó ít bị ảnh hưởng trong các thủ thuật thường quy."
     },
     {
+        "id": 155,
+        "case": "Case 49: VIÊM AMIDALL TÁI DIỄN",
+        "question": "Một bệnh nhân đến gặp bạn vì ho kéo dài mức độ nhẹ. Nghe phổi bình thường. Không có dấu hiệu của viêm phế quản. Bạn đang nghi ngờ hội chứng chảy dịch mũi sau (postnasal drip) do dị ứng. Thần kinh nào là đường truyền vào của phản xạ ho ?",
+        "choices": [
+            "Thần kinh V2",
+            "Thần kinh V3",
+            "Thần kinh VII",
+            "Thần kinh IX E. Thần kinh X",
+            "None"
+        ],
+        "correct": 4,
+        "hint": "Phản xạ ho được kích thích bởi các kích thích ở vùng hầu họng, vùng được chi phối bởi thần kinh IX. Dây thần kinh sinh ba (V1 và V2) chi phối cho khoang miệng và khoang mũi."
+    },
+    {
         "id": 156,
         "case": "Case 49: VIÊM AMIDALL TÁI DIỄN",
         "question": "Thành phần nào đi qua khoảng trống giữa cơ khít hầu trên và cơ khít hầu giữa?",
@@ -1132,6 +2098,20 @@
         ],
         "correct": 4,
         "hint": "Thần kinh thiệt hầu (IX) đi qua khoảng trống giữa cơ khít hầu trên và cơ khít hầu giữa, chạy dọc theo cơ trâm hầu và dây chằng trâm móng."
+    },
+    {
+        "id": 157,
+        "case": "Case 50: MỞ KHÍ QUẢN CẤP CỨU",
+        "question": "Một nam thanh niên 24 tuổi đang được thăm khám về những bất thường ở đường thở. Bình thường sờ được sụn nhẫn ngang mức đốt sống cổ thứ mấy ?",
+        "choices": [
+            "C2",
+            "C4",
+            "C6",
+            "T1",
+            "None"
+        ],
+        "correct": 3,
+        "hint": "Sụn nhẫn thường nằm ngang mức đốt sống cổ C6."
     },
     {
         "id": 158,
@@ -1176,6 +2156,20 @@
         "hint": "Màng nhẫn giáp nằm ngay dưới sụn giáp và nằm trên sụn nhẫn. [<br>]"
     },
     {
+        "id": 161,
+        "case": "Case 51: CHẢY MÁU CAM",
+        "question": "Một người đàn ông 55 tuổi được chẩn đoán chảy máu mũi trước mức độ nặng gây thiếu máu và tụt huyết áp. Một bác sĩ tai mũi họng (ENT) được mời hội chẩn để xác định vị trí chảy máu. Vị bác sỹ này nói rằng có thể cần phải làm tắc các động mạch cấp máu chính. Động mạch nào dưới đây chịu trách nhiệm cho chảy máu ở bệnh nhân này ?",
+        "choices": [
+            "Động mạch sàng",
+            "Động mạch bướm khẩu cái",
+            "Động mạch môi trên",
+            "Động mạch khẩu cái lớn",
+            "None"
+        ],
+        "correct": 2,
+        "hint": "Cấp máu cho phần trước vách mũi chủ yếu đến từ động mạch bướm khẩu cái. Động mách bướm khẩu cái tách ra từ động mạch hàm trên - là nhánh tận của động mạch cảnh ngoài."
+    },
+    {
         "id": 162,
         "case": "Case 51: CHẢY MÁU CAM",
         "question": "Một thiếu nữ 18 tuổi vào viện vì chảy máu mũi kéo dài. Thăm khám thấy máu chảy từ lỗ mũi bên phải. Chảy máu nhiều khả năng xuất phát từ vị trí nào dưới đây ?",
@@ -1188,6 +2182,48 @@
         ],
         "correct": 1,
         "hint": "Vị trí thường gặp nhất của chảy máu mũi là một vùng ở phần trước vách mũi, được gọi là đám rối Kiesselbach, nơi có vòng nối động mạch rất phong phú."
+    },
+    {
+        "id": 163,
+        "case": "Case 51: CHẢY MÁU CAM",
+        "question": "Trong một tai nạn ô tô, một người phụ nữ 24 tuổi bị văng khỏi xe và đập đầu vào vỉa hè. Bệnh nhân mất ý thức ngay nhưng hiện tại, bệnh nhân tỉnh, phản xạ đồng tử hai bên đều nhau. Bệnh nhân không có triệu chứng gì ngoại trừ chảy dịch trong từ lỗ mũi bên phải và không giảm sau 24h. Nguyên nhân có khả năng nhất ?",
+        "choices": [
+            "Chảy dịch xoang do thần kinh giao cảm",
+            "Viêm mũi dị ứng do túi khí của ô tô",
+            "Tổn thương mảnh sàng",
+            "Rò lệ mũi",
+            "None"
+        ],
+        "correct": 3,
+        "hint": "Bệnh nhân này nhiều khả năng có chảy dịch não tủy (CSF) qua hốc mũi; tình trạng này không phải là hiếm sau các chấn thương vùng đầu. Mảnh sàng bị vỡ và các màng não bị rách, do đó cho phép CSF trong khoang dưới nhện chảy vào mũi. Bệnh cảnh này là điều kiện thuận lợi để dẫn đến viêm màng não."
+    },
+    {
+        "id": 164,
+        "case": "Case 52: ÁP XE RĂNG/VIÊM TẤY LAN TỎA VÙNG SÀN MIỆNG",
+        "question": "Một người đàn ông 67 tuổi xuất hiện một áp xe răng sau 2 tuần làm lơ. Hiện tại, bệnh nhân đau ngực dữ dội do nhiễm trùng trung thất. Nhiễm trùng lan xuống trung thất thường đi qua con đường nào dưới đây ?",
+        "choices": [
+            "Khoang cơ nhai",
+            "Khoang trước khí quản",
+            "Khoang sau hầu",
+            "Khoang trên ức",
+            "None"
+        ],
+        "correct": 3,
+        "hint": "Con đường chính để nhiễm trùng từ cổ lan vào ngực là qua khoang sau hầu, đây là một khoang tiềm tàng nằm giữa mạc trước cột sống của mạc cổ sâu và mạc miệng hầu bao quanh hầu."
+    },
+    {
+        "id": 165,
+        "case": "Case 52: ÁP XE RĂNG/VIÊM TẤY LAN TỎA VÙNG SÀN MIỆNG",
+        "question": "Một nha sĩ sử dụng thuốc tê tại chỗ để chuẩn bị cho một thủ thuật với các răng hàm lớn hàm dưới. Nha sĩ sẽ gây tê dây thần kinh nào?",
+        "choices": [
+            "Thần kinh dưới cằm",
+            "Thần kinh hàm trên",
+            "Thần kinh hàm dưới",
+            "Thần kinh lang thang",
+            "None"
+        ],
+        "correct": 3,
+        "hint": "Gây tê các răng hàm lớn hàm dưới được gọi là chẹn hàm dưới phần thấp (lower mandibular block). Thần kinh được gây tê là nhánh huyệt răng dưới của thần kinh hàm dưới (V3)."
     },
     {
         "id": 166,
@@ -1230,6 +2266,34 @@
         ],
         "correct": 3,
         "hint": "Nước mắt chảy qua điểm lệ ở phía dưới trong của mi mắt và đi qua ống lệ tỵ để mở vào ngách mũi dưới."
+    },
+    {
+        "id": 169,
+        "case": "Case 53: GIÃN TÚI LỆ",
+        "question": "Một cậu bé 5 tuổi được ghi nhận có sưng, đau nhiều và đỏ quanh mắt phải. Bệnh nhi đã được chẩn đoán viêm mô tế bào quanh hốc mắt và nhiễm trùng ở bệnh nhi này có khả năng lan tràn tới não. Con đường nào sau đây giúp nhiễm trùng lan tràn đến não ?",
+        "choices": [
+            "Qua mảnh sàng vào trong khoang màng não",
+            "Qua tĩnh mạch mặt tới tĩnh mạch mắt tới xoang hang và cuối cùng vào khoang màng cứng",
+            "Qua xoang trán tới xoang dọc trên và vào trong khoang dưới nhện",
+            "Từ ngách mũi dưới vào ống mặt để tới hố sọ sau",
+            "None"
+        ],
+        "correct": 2,
+        "hint": "Nhiễm trùng khoang quanh ổ mắt có thể xâm nhập vào tĩnh mạch mặt để đến được xoang hang và vào trong khoang màng cứng và hậu quả là viêm màng não. Do đó, điều trị kháng sinh kịp thời là rất quan trọng ở những bệnh nhân này."
+    },
+    {
+        "id": 170,
+        "case": "Case 54: NÃO ÚNG TỦY",
+        "question": "Một phụ nữ 32 tuổi được đưa đến phòng cấp cứu vì đau đầu dữ dội và đi lại khó khăn. Hiện tại, bệnh nhân trong trạng thái lơ mơ. Trên hình ảnh CLVT sọ não, có giãn não thất ba và cả 2 não thất bên. Não thất bốn bình thường. Vị trí tắc nghẽn ở bệnh nhân này ?",
+        "choices": [
+            "Lỗ bên Luschka",
+            "Lỗ giữa Magendie",
+            "Cống não",
+            "Lỗ gian não thất Monro E. Bể lớn (Cisterna magna)",
+            "None"
+        ],
+        "correct": 3,
+        "hint": "Bệnh nhân này nhiều khả năng có tắc cống não Sylvius, vì đây là kênh dẫn giữa não thất ba và não thất bốn. Do đó, sẽ có giãn não thất ba và cả 2 não thất bên nhưng não thất bốn bình thường [<br>]"
     },
     {
         "id": 171,
@@ -1342,6 +2406,34 @@
         ],
         "correct": 1,
         "hint": "Các xung thần kinh cảm giác ở mặt dưới phần trung tâm cơ hoành được gửi vào đoạn tủy từ C3 đến C5, cũng là nơi xuất phát của thần kinh hoành."
+    },
+    {
+        "id": 179,
+        "case": "Case 56: VIÊM PHÚC MẠC",
+        "question": "Tiếp tục cuộc thảo luận với bạn học của bạn, bạn hỏi \"Thần kinh sống nào chi phối cho vùng rốn?’’",
+        "choices": [
+            "T4 đến T6",
+            "T8",
+            "T10",
+            "T12",
+            "L1"
+        ],
+        "correct": 3,
+        "hint": "Đốt da ở ngang mức rốn là T10, và các sợi cảm giác của nó là một phần của thần kinh sống T10."
+    },
+    {
+        "id": 180,
+        "case": "Case 57: RÁCH ĐAI XOAY KHỚP VAI",
+        "question": "Một vận động viên bơi lội 44 tuổi đến gặp bạn vì đau vai phải khoảng 1 năm nay. Phim chụp X quang vùng vai cho thấy vôi hóa gân cơ trên gai. Động tác nào nhiều khả năng sẽ gây ra khó chịu cho bệnh nhân này?",
+        "choices": [
+            "Xoay trong cánh tay",
+            "Xoay ngoài cánh tay",
+            "Khép cánh tay",
+            "Giạng cánh tay",
+            "None"
+        ],
+        "correct": 4,
+        "hint": "Bệnh nhân này có khả năng có hội chứng đai xoay do rách-và-mòn (wear- and-tear) lặp lại nhiều lần các cơ đai xoay. Đai xoay bao gồm: cơ tròn bé, cơ trên gai, cơ dưới gai, và cơ dưới vai. Cơ trên gai đảm nhận chức năng giạng cánh tay."
     },
     {
         "id": 181,
