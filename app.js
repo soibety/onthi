@@ -311,7 +311,7 @@ function updateNavigator(){
 
 async function init(){
 
-    const response=await fetch("../cases.json");
+    const response=await fetch("cases.json");
 
     const raw=await response.json();
 
