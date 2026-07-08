@@ -1,46 +1,152 @@
 <!doctype html>
 <html lang="vi">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Luyện Giải Phẫu</title>
-  <link rel="stylesheet" href="style.css" />
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Luyện Giải Phẫu</title>
+    <link rel="stylesheet" href="style.css">
 </head>
+
 <body>
-  <main class="app">
+
+<main class="app">
+
+    <!-- ========================= -->
+    <!-- CHỌN BỘ ĐỀ -->
+    <!-- ========================= -->
+
     <section id="pickerScreen" class="screen">
-      <div class="hero">
-        <p class="eyebrow">Quiz Mode</p>
-        <h1>Luyện Tập Giải Phẫu</h1>
-        <p class="sub">Chọn một bộ 50 câu để bắt đầu.</p>
-      </div>
-      <div id="setButtons" class="set-grid"></div>
+
+        <div class="hero">
+            <p class="eyebrow">Quiz Mode</p>
+            <h1>Luyện Tập Giải Phẫu</h1>
+            <p class="sub">Chọn một bộ 50 câu để bắt đầu.</p>
+        </div>
+
+        <div id="setButtons" class="set-grid"></div>
+
     </section>
+
+
+    <!-- ========================= -->
+    <!-- LÀM BÀI -->
+    <!-- ========================= -->
 
     <section id="quizScreen" class="screen hidden">
-      <header class="topbar">
-        <button id="backBtn" class="ghost">Quay lại</button>
-        <div id="progressText" class="meta"></div>
-        <div id="scoreText" class="meta"></div>
-      </header>
 
-      <article class="card">
-        <p id="caseText" class="case"></p>
-        <h2 id="questionText" class="question"></h2>
-        <div id="choices" class="choices"></div>
+        <header class="topbar">
 
-        <section id="feedback" class="feedback hidden">
-          <p id="answerResult" class="answer-result"></p>
-          <p id="hintText" class="hint"></p>
-        </section>
+            <button id="backBtn" class="ghost">
+                Quay lại
+            </button>
 
-        <div class="actions">
-          <button id="nextBtn" class="primary" disabled>Câu tiếp</button>
+            <div id="progressText" class="meta"></div>
+
+            <div id="scoreText" class="meta"></div>
+
+        </header>
+
+
+        <!-- Thanh điều hướng -->
+
+        <div id="questionNav" class="question-nav">
+
+            <!-- tạo bằng JS -->
+
         </div>
-      </article>
-    </section>
-  </main>
 
-  <script src="app.js"></script>
+
+        <article class="card">
+
+            <p id="caseText" class="case"></p>
+
+            <h2 id="questionText" class="question"></h2>
+
+            <div id="choices" class="choices"></div>
+
+
+            <section id="feedback" class="feedback hidden">
+
+                <p id="answerResult" class="answer-result"></p>
+
+                <p id="hintText" class="hint"></p>
+
+            </section>
+
+
+            <div class="actions">
+
+                <button
+                    id="prevBtn"
+                    class="ghost">
+                    ← Câu trước
+                </button>
+
+                <button
+                    id="nextBtn"
+                    class="primary"
+                    disabled>
+                    Câu tiếp →
+                </button>
+
+            </div>
+
+        </article>
+
+    </section>
+
+
+
+    <!-- ========================= -->
+    <!-- KẾT QUẢ -->
+    <!-- ========================= -->
+
+    <section
+        id="resultScreen"
+        class="screen hidden">
+
+        <div class="card">
+
+            <h2>
+                🎉 Hoàn thành bài làm
+            </h2>
+
+            <div class="result-box">
+
+                <p id="finalScore"></p>
+
+                <p id="correctCount"></p>
+
+                <p id="wrongCount"></p>
+
+                <p id="accuracy"></p>
+
+            </div>
+
+            <div class="actions center">
+
+                <button
+                    id="retryWrongBtn"
+                    class="primary">
+                    Làm lại câu sai
+                </button>
+
+                <button
+                    id="continueBtn"
+                    class="ghost">
+                    Tiếp tục
+                </button>
+
+            </div>
+
+        </div>
+
+    </section>
+
+</main>
+
+
+<script src="app.js"></script>
+
 </body>
 </html>
